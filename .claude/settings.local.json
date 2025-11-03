@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python md_to_docx.py:*)",
+      "Bash(dir:*)",
+      "Bash(del test*.docx)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
